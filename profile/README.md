@@ -1,9 +1,19 @@
-# Parker Industries 
+# Parker Industries
 
-## MajorDom
+**We build our own products. Hire the team that ships.**
 
-MajorDom is a brand new open-source smart home ecosystem, designed for privacy, autonomy, and seamless integration across a wide range of devices. The platform combines easy plug-n-play functionality with intelligent automations and a really smart voice assistant. Check [majordom.io](https://majordom.io/blog/welcome-to-majordom) for more info!
+Parker Industries is a product company that also takes on outside work. We design, build, and ship our own hardware and software — and put that same team on client projects.
 
-<a href="https://majordom.io/blog/welcome-to-majordom">
-  <img alt="Automate smart not hard (majordom)" src="https://github.com/MarkParker5/MarkParker5/assets/34688010/b21f003a-413a-4345-bf01-96aa2d25b78f"
-</a>
+🌐 [parker-industries.org](https://parker-industries.org) · 💼 [LinkedIn](https://www.linkedin.com/company/parker-industries-in)
+
+### What lives here
+
+The team's **company engineering**: internal libraries, tooling, forks, and any project that doesn't (yet) have a home of its own.
+
+### Elsewhere in our world
+
+- 🏠 **MajorDom** — our offline-first user-friendly diy-welcome smart home system → [majordom.io](https://www.majordom.io) · docs → [docs.majordom.io](https://docs.majordom.io) · source code and extensions → [@MajorDom-Systems](https://github.com/MajorDom-Systems)
+- 🗣️ **STARK** — python framework for speech interfaces: async, low-latency, pre-GPT, context-aware, multilingual; extended with ML pipelines, LLM integration, and a custom agentic engine → [stark.markparker.me](https://stark.markparker.me)
+
+
+> Building the future, not fortune.
