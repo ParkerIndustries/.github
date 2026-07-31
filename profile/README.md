@@ -1,5 +1,19 @@
 # Parker Industries
 
+<!-- company-bare (no header) → parker-industries.org -->
+<a href="https://parker-industries.org" target="_blank">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://markparker.me/banners/company-bare-dark.webp"
+    />
+    <img
+      alt="Parker Industries projects"
+      src="https://markparker.me/banners/company-bare-light.webp"
+    />
+  </picture>
+</a>
+
 **We build our own products. Hire the team that ships.**
 
 Parker Industries is a product company that also takes on outside work. We design, build, and ship our own hardware and software — and put that same team on client projects.
